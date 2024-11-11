@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.clr{
+    clear: both;
+}
+
+.home{
+
+background-image: url(../bakery/images/background.jpg);
+height: 80vh;
+background-size: 100% 100%;
+}
+
+
+
+
+.home-caption{
+   
+    text-align: center;
+    padding-top: 280px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+
+.home-caption h4{
+    font-size: 30px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+}
+
+.btn{
+    background-color: transparent;
+    border: 5px;
+    padding: 15px 28px;
+    margin-top: 15px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+
+}
+
+.btn-brown{
+    background-color:rgb(156, 111, 66);
+}
+
+.btn-white{
+    color: #fff !important;
+    border-color: #fff
+}
+
+.home p{
+    font-size: 25px;
+}
+
+.about{
+    margin: 50px 10%;
+    height: 580px;
+
+    
+}
+
+.about-img{
+   
+    width: 40%;
+    float: left;
+}
+
+.about-img img{
+    width: 100%;
+}
+.about-caption{
+    
+    width: 60%;
+    float: left;
+    }
+
+
+
+.about-caption span{
+color: rgb(151, 114, 58);
+font-size: 30px;
+font-weight: 20px;
+padding-left: 50px;
+}
+
+.about-caption p{
+    font-family: 'Alegreya Sans', sans-serif;
+    margin-top: 20px;
+    padding: 50;
+    font-size: 15px;
+    margin:0px 5px ;
+    line-height: 40px;
+    padding-right: 288px;
+
+
+}
+
+
+.icon img{
+    width: 30px;
+    float: left;
+    padding: 5px;
+    margin-left: 62px;   
+    margin-bottom: 15px;
+    border: 1px;
+    background: none !important;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 100%;
+    
+   
+
+}
+
+.icon p{
+    font: right;
+    font-size: 15px;
+    padding-right: 320px;
+    list-style: none;
+    padding-bottom: 23px;
+    padding-top: 4px;
+    padding-left: 120px;
+}
+
+.colorlocation{
+    background-color: rgb(247, 247, 247);
+}
+
+.Location{
+    margin-right: 280px;
+    margin: 50px 10%;
+}
+
+.Location-img{
+    width: 33%;
+    float: right;
+}
+
+.Location-img img{
+    width: 100%;
+}
+
+.Location-caption{
+    width: 60%;
+    float: left;
+    margin-left: 95px;
+    margin-top: 100px;
+}
+
+
+.Location-caption span{
+text-align: center;
+    color: rgb(151, 114, 58);
+    font-size: 30px;
+    font-weight: 20px;
+    padding-left: 50px;
+    }
+
+ .Location-caption p{
+        font-family: 'Alegreya Sans', sans-serif;
+        margin-top: 20px;
+        font-size: 15px;
+        margin:0px 5px ;
+        line-height: 40px;
+        padding-right: 288px;
+        
+    
+    }
+
+
